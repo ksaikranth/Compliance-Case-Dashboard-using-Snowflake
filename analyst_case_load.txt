@@ -1,0 +1,1 @@
+Analyst_Load = COUNTROWS(CASE_ASSIGNMENT)
